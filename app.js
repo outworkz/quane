@@ -39,11 +39,11 @@ function progressInterva(){
         },800);
         setTimeout(()=>{
             button.style.background = "rgb(244,118,121)"
-            button.style.width = "130px";
+            button.style.width = "140px";
             button.style.borderRadius = "20px"
         },1500)
         setTimeout(()=>{
-            button.style.height = "40px";
+            button.style.height = "50px";
         },2000)
         setTimeout(()=>{
             textBtn.textContent = "Chạm nhẹ vào tym a đi ạ ♥!"
